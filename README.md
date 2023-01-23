@@ -20,7 +20,9 @@ Aim/Purpose Of Project
  The understanding of Blockchain technology, Cryptocurrency, Decentralized Finance and the likes in a simplified way for anybody and everybody to understand.
  The Ownership and Control of your funds and assets.
  
+ The link to the PROJECT is given below:
  
+ https://defi-for-all-project.vercel.app/
 
 
 

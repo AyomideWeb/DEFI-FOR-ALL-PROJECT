@@ -1,4 +1,4 @@
-**DEFI-FOR-ALL-PROJECT
+# DEFI-FOR-ALL-PROJECT
 A platform that introduces the concept of blockchain through Decentralized finance to everyone.**
 
 Recently, we could see a huge growing adoption of cryptocurrencies in our countries because of how broken the traditional finance system. 
@@ -13,8 +13,10 @@ in order to introduce them to this amazing world of decentralized finance.
 In addition to this platform being an INFORMATION DASHBOARD, I also built a WEB3 CROWDFUNING DECENTRALIZED APPLICATION WHERE FUNDS CAN BE DONATED TO NEW AND UPCOMING
 PROJECTS and help INVESTORS funds projects they deem fit to yield better investments, and also a platform to help philantropists to fund projects that can help sustain
 humanity and make the world a better place.
+# Name of Developer
+Akinfenwa Gabriel Ayomide
 
-**SNAPSHOTS OF THE PROJECTS**
+# SNAPSHOTS OF THE PROJECTS
 
 ![Defi For All_1](https://user-images.githubusercontent.com/100292401/226241173-92c6635d-192a-4b66-9c06-9bdefd9ade0f.jpg)
 
@@ -22,20 +24,28 @@ humanity and make the world a better place.
 
 ![CrowdFunding1](https://user-images.githubusercontent.com/100292401/226241167-01b5d7b3-15a0-4732-8609-3983309f2af4.jpg)
 
-Aim/Purpose Of Project
+![CrowdFunding2](https://user-images.githubusercontent.com/100292401/226242148-86aab15d-7186-4817-91a3-0b4759f571ce.jpg)
+
+![CrowdFunding3](https://user-images.githubusercontent.com/100292401/226242145-bd203d6e-05b6-44cf-9ddc-d7c7cddff78b.jpg)
+
+
+# Aim/Purpose Of Project
+
  To make the process of learning and investing on DeFi simpler and nicer.
  To reduce the ignorance of under-utilizing the full opportunities Decentralized Finance has to offer instead of just buying and holding them and speculating with the    price.
  The understanding of Blockchain technology, Cryptocurrency, Decentralized Finance and the likes in a simplified way for anybody and everybody to understand.
  To further provide a platform where people with little or no capital can display their ideas and projects for investors and philantropists to fund.
  
  
- **The link to the PROJECT main page is given below:**
+ # The link to the PROJECT main page is given below:
  
  https://defi-for-all-project.vercel.app/
 
-**The link to the CROWDFUNDING page and github repository is also given below:**
+# The link to the CROWDFUNDING page and github repository is also given below:
 
 CROWDFUNDING-DAPP Page: https://crowd-funding-dapp-74b3.vercel.app/
 
 GITHUB REPO LINK: https://github.com/AyomideWeb/crowdFunding_Dapp
 
+# LICENSE
+MIT

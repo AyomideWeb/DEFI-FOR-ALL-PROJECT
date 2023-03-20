@@ -1,20 +1,18 @@
 # DEFI-FOR-ALL-PROJECT
-A platform that introduces the concept of blockchain through Decentralized finance to everyone.**
+**A platform that introduces the concept of blockchain through Decentralized finance to everyone.**
 
 Recently, we could see a huge growing adoption of cryptocurrencies in our countries because of how broken the traditional finance system. 
 However, we noticed that people who are into cryptocurrencies, only buy and hold them speculating with the price. They don’t invest their assets,
 despite the great quantity of opportunities that DeFi offers. 
-The problem is the quantity of scams that makes people distrust, and the amount of things to do and information on DeFi could be overwhelming and difficult to understand 
-for a beginner. 
+The problem is the quantity of scams that makes people distrust, and the amount of things to do and information on DeFi could be overwhelming and difficult to understand for a beginner. 
 
 So, my inspiration is building a platform where people can understand, learn and invest in DeFi in a simplified way, 
 in order to introduce them to this amazing world of decentralized finance.
 
-In addition to this platform being an INFORMATION DASHBOARD, I also built a WEB3 CROWDFUNING DECENTRALIZED APPLICATION WHERE FUNDS CAN BE DONATED TO NEW AND UPCOMING
-PROJECTS and help INVESTORS funds projects they deem fit to yield better investments, and also a platform to help philantropists to fund projects that can help sustain
+In addition to this platform being an **INFORMATION DASHBOARD**, I also built a **WEB3 CROWDFUNING DECENTRALIZED APPLICATION** WHERE FUNDS CAN BE DONATED TO NEW AND UPCOMING PROJECTS and help **INVESTORS** funds projects they deem fit to yield better investments, and also a platform to help philantropists to fund projects that can help sustain
 humanity and make the world a better place.
 # Name of Developer
-Akinfenwa Gabriel Ayomide
+**AKINFENWA GABRIEL AYOMIDE**
 
 # SNAPSHOTS OF THE PROJECTS
 ## HOMEPAGE 1

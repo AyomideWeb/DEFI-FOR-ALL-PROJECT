@@ -10,19 +10,25 @@ for a beginner.
 So, my inspiration is building a platform where people can understand, learn and invest in DeFi in a simplified way, 
 in order to introduce them to this amazing world of decentralized finance.
 
-This project was built and hyperlinked with other platforms such as UNISWAP INTERFACE for the purpose of SWAPPING COINS and also
-DEPAY PLATFORM for the purpose of making TRANSACTIONS as a means of DEFI.
+In addition to this platform being an INFORMATION DASHBOARD, I also built a WEB3 CROWDFUNING DECENTRALIZED APPLICATION WHERE FUNDS CAN BE DONATED TO NEW AND UPCOMING
+PROJECTS and help INVESTORS funds projects they deem fit to yield better investments, and also a platform to help philantropists to fund projects that can help sustain
+humanity and make the world a better place.
+
 
 Aim/Purpose Of Project
- To make the onboarding to the people with a series of questions by explaining financial concepts.
  To make the process of learning and investing on DeFi simpler and nicer.
- To reduce the ignorance of under-utilizing the full opportunities Decentralized Finance has to offer instead of just buying and holding them and speculating with the price.
+ To reduce the ignorance of under-utilizing the full opportunities Decentralized Finance has to offer instead of just buying and holding them and speculating with the    price.
  The understanding of Blockchain technology, Cryptocurrency, Decentralized Finance and the likes in a simplified way for anybody and everybody to understand.
- The Ownership and Control of your funds and assets.
+ To further provide a platform where people with little or no capital can display their ideas and projects for investors and philantropists to fund.
  
- The link to the PROJECT is given below:
+ 
+ The link to the PROJECT main page is given below:
  
  https://defi-for-all-project.vercel.app/
 
+The link to the CROWDFUNDING page and github repository is also given below:
 
+CROWDFUNDING-DAPP Page: https://crowd-funding-dapp-74b3.vercel.app/
+
+GITHUB REPO LINK: https://github.com/AyomideWeb/crowdFunding_Dapp
 

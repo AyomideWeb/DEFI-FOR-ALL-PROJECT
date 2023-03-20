@@ -17,15 +17,25 @@ humanity and make the world a better place.
 Akinfenwa Gabriel Ayomide
 
 # SNAPSHOTS OF THE PROJECTS
-
+## HOMEPAGE 1
 ![Defi For All_1](https://user-images.githubusercontent.com/100292401/226241173-92c6635d-192a-4b66-9c06-9bdefd9ade0f.jpg)
 
+## HOMEPAGE 2
 ![Defi For All_2](https://user-images.githubusercontent.com/100292401/226241172-c6a14a6b-0538-4cce-bca1-3cabf7ce0370.jpg)
 
+## BLOG SITE
+![BLOG](https://user-images.githubusercontent.com/100292401/226243268-e84dc9c1-fefa-4d1c-a05f-c375641f3453.jpg)
+
+## NEWSFEED SITE
+![NEWSFEED](https://user-images.githubusercontent.com/100292401/226243275-64886772-3ef1-4ed7-98bd-bf37040b19cd.jpg)
+
+## CROWDFUNDING CONNECT PAGE
 ![CrowdFunding1](https://user-images.githubusercontent.com/100292401/226241167-01b5d7b3-15a0-4732-8609-3983309f2af4.jpg)
 
+## CROWDFUNDING MAIN PAGE WITH EXISTING PROJECTS(TESTS)
 ![CrowdFunding2](https://user-images.githubusercontent.com/100292401/226242148-86aab15d-7186-4817-91a3-0b4759f571ce.jpg)
 
+## CROWDFUNDING CREATE A PROJECT CAMPAIGN PAGE
 ![CrowdFunding3](https://user-images.githubusercontent.com/100292401/226242145-bd203d6e-05b6-44cf-9ddc-d7c7cddff78b.jpg)
 
 

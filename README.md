@@ -14,6 +14,11 @@ In addition to this platform being an INFORMATION DASHBOARD, I also built a WEB3
 PROJECTS and help INVESTORS funds projects they deem fit to yield better investments, and also a platform to help philantropists to fund projects that can help sustain
 humanity and make the world a better place.
 
+SNAPSHOTS OF THE PROJECTS
+![CrowdFunding1](https://user-images.githubusercontent.com/100292401/226241167-01b5d7b3-15a0-4732-8609-3983309f2af4.jpg)
+![Defi For All_2](https://user-images.githubusercontent.com/100292401/226241172-c6a14a6b-0538-4cce-bca1-3cabf7ce0370.jpg)
+![Defi For All_1](https://user-images.githubusercontent.com/100292401/226241173-92c6635d-192a-4b66-9c06-9bdefd9ade0f.jpg)
+
 
 Aim/Purpose Of Project
  To make the process of learning and investing on DeFi simpler and nicer.

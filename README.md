@@ -46,6 +46,12 @@ Akinfenwa Gabriel Ayomide
  The understanding of Blockchain technology, Cryptocurrency, Decentralized Finance and the likes in a simplified way for anybody and everybody to understand.
  To further provide a platform where people with little or no capital can display their ideas and projects for investors and philantropists to fund.
  
+ # TECNOLOGIES USED
+ * Solidity for the Smart Contract Development.
+ * ThirdWeb Web3 Framework.
+ * Vite and Tailwind CSS For the Frontend. 
+ * Smart Contract was deployed in thirdweb portal using Goerli Testnet
+ 
  
  # The link to the PROJECT main page is given below:
  

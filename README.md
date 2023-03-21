@@ -61,5 +61,7 @@ CROWDFUNDING-DAPP Page: https://crowd-funding-dapp-74b3.vercel.app/
 
 GITHUB REPO LINK: https://github.com/AyomideWeb/crowdFunding_Dapp
 
+The Contract was deployed at : https://thirdweb.com/goerli/0x316C28cb0195D5D1153068e61447238c612E4C81/explorer
+
 # LICENSE
 MIT

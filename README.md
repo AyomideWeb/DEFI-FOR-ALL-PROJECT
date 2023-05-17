@@ -12,7 +12,7 @@ in order to introduce them to this amazing world of decentralized finance.
 In addition to this platform being an **INFORMATION DASHBOARD**, I also built a **WEB3 CROWDFUNING DECENTRALIZED APPLICATION** WHERE FUNDS CAN BE DONATED TO NEW AND UPCOMING PROJECTS and help **INVESTORS** funds projects they deem fit to yield better investments, and also a platform to help philantropists to fund projects that can help sustain
 humanity and make the world a better place.
 # Name of Developer
-**AKINFENWA GABRIEL AYOMIDE**
+**GABRIEL**
 
 # SNAPSHOTS OF THE PROJECTS
 ## HOMEPAGE 1
